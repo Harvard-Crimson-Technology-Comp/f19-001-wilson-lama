@@ -1,0 +1,18 @@
+[
+    {
+        "model": "api.usermodel",
+        "pk": 1,
+        "fields": {
+            "first_name": "Nicholas",
+            "last_name": "Wong"
+        }
+    },
+    {
+        "model": "api.usermodel",
+        "pk": 2,
+        "fields": {
+            "first_name": "William",
+            "last_name": "Yao"
+        }
+    }
+]

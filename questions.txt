@@ -2,24 +2,24 @@
 
 Question 1. What is Django?
 
-# TODO
+# Django is an open source web framework written in Python. A web framework is a collection of modules that make development easier. Frameworks allow you to create apps or websites from an existing source, instead of from scratch.
 
 Question 2. What is GraphQL?
 
-# TODO
+# GraphQL is a syntax that describes how to ask for data and is used to load data from a server to a client.
 
 Question 3. How does Django "talk" to GraphQL?
 
-# TODO
+# Django probably requests data with the GraphQL syntax
 
 Question 4. Why do we use GraphQL + Django?
 
-# TODO
+# I think William said it's faster? Not totally sure
 
 Question 5. What is a Web API?
 
-# TODO
+# An application programming interface for a web browser or web server, and an API is a communication protocol between a client and a server.
 
 Question 6. What is a "backend"?
 
-# TODO
+# The backend is everything that happens on the server side (not in your browser)
